@@ -23,6 +23,6 @@ That’s it! If you have any issues, check the React Native docs or let me know.
 <p float="left">
   <img src="https://github.com/user-attachments/assets/018fbb20-6f0c-4fbc-a544-e852f755f698" width="30%" />
   <img src="https://github.com/user-attachments/assets/4d7b0457-0b56-4ae1-bc71-57ddb26bb289" width="30%" />
-   <img src="https://github.com/user-attachments/assets/a0ad3b06-17ef-4b3d-a55f-2bf62b769759" width=`30%/>
+   <img src="https://github.com/user-attachments/assets/a0ad3b06-17ef-4b3d-a55f-2bf62b769759" width=`30%'/>
 </p>
 
